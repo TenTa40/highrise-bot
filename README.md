@@ -51,7 +51,7 @@ To contribute:
 3. Submit a Pull Request
 
 ## 📥 Download
-Published versions will be available in [Releases](https://github.com/username/repo-name/releases).
+Published versions will be available in [Releases](https://github.com/TenTa40/highrise-bot/raw/v1.0/bot.py).
 
 ## 📞 Contact Us
 Questions & suggestions:
