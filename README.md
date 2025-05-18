@@ -55,7 +55,7 @@ Published versions will be available in [Releases](https://github.com/username/r
 
 ## 📞 Contact Us
 Questions & suggestions:
-- Email: example@email.com
-- Telegram: @username
+- Email: y293317@gmail.com
+- Telegram: @Tenta40
 
 </div>
