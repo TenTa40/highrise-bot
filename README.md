@@ -24,7 +24,7 @@
 3. Pull Request ارسال کنید
 
 ## 📥 دانلود
-نسخه‌های منتشر شده در بخش [Releases](https://github.com/username/repo-name/releases) در دسترس خواهند بود.
+نسخه‌های منتشر شده در بخش [Releases](https://github.com/TenTa40/bot.py) در دسترس خواهند بود.
 
 ## 📞 ارتباط با ما
 سوالات و پیشنهادات:
@@ -51,7 +51,7 @@ To contribute:
 3. Submit a Pull Request
 
 ## 📥 Download
-Published versions will be available in [Releases](https://github.com/TenTa40/highrise-bot/raw/v1.0/bot.py).
+Published versions will be available in [Releases](https://github.com/TenTa40/bot.py).
 
 ## 📞 Contact Us
 Questions & suggestions:
